@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-for final project
